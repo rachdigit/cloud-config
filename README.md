@@ -1,6 +1,6 @@
 # Cloud Config Server
 
-This repository contains the configuration files for a Spring Cloud Config Server. The server is configured to fetch properties from this Git repository and serve them to microservices.
+✔ This repository contains the configuration files for a Spring Cloud Config Server. The server is configured to fetch properties from this Git repository and serve them to microservices.
 
 Configuration Files
 The following configuration files are included in this repository:
